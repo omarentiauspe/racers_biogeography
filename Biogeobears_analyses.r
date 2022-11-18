@@ -1,7 +1,7 @@
 ##########################################################################################
 # R script used to run BioGeoBEARS on calibrated trees.
-# Wrote for analyses in Grazziotin et al. (in press) - "Phylogenetic position of Amphisbaena ridleyi".
-# Felipe G. Grazziotin - fgrazziotin@gmail.com
+# Wrote for analyses in Entiauspe-Neto et al. (in press) - 
+# Omar M. Entiauspe-Neto - omarentiauspe@hotmail.com ; Felipe G. Grazziotin - fgrazziotin@gmail.com
 ##########################################################################################
 # This is a modular general script combining original functions and commands with several other, derived from blogs, forums, books and regular papers.
 # Feel free to change, use and identify mistakes.
